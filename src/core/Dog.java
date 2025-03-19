@@ -8,6 +8,6 @@ package core;
  *
  * @author jeronimoac
  */
-public class Day {
+public class Dog {
     
 }
